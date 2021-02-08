@@ -1,1 +1,4 @@
-tell you how to use
+this is readme file
+tell you about the depository
+:tada:
+
